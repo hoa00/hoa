@@ -1,4 +1,4 @@
-# Gatsby + Cosmic JS
+# Gatsby + Cosmic JS + Test
 
 ![gatsby-blog-cosmicjs](static/thumbnail.png "The index page of the starter blog")
 
